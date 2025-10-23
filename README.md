@@ -23,9 +23,6 @@ ML-инженер с практическим опытом полного цик
 - 📈 **Uplift-модель** - uplift 12%, A/B тестирование
 - 🔍 **Детекция аномалий** - precision 89%, real-time обработка
 
-## 📈 Активность
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DataClasse&theme=dark)
-
 ## 🎯 Карьерные цели
 - Junior/Middle ML Engineer
 - MLOps Engineer  
