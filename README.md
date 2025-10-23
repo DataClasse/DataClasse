@@ -14,9 +14,6 @@ ML-инженер с практическим опытом полного цик
 **Cloud & Monitoring:** Yandex Cloud, Grafana, Prometheus  
 **Databases:** PostgreSQL, MSSQL  
 
-## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataClasse&show_icons=true&theme=dark)
-
 ## 🔥 Топ проекты
 - 🏠 **Предсказание оттока клиентов** - F1-score 0.84, автоматизация через Airflow
 - 🎵 **Рекомендательная система** - NDCG@10 = 0.73, гибридный подход
