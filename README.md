@@ -1,16 +1,36 @@
-## Hi there 👋
+# Дмитрий Щербаков 👨‍💻
+**ML-инженер | Учащийся Яндекс Практикум**
 
-<!--
-**DataClasse/DataClasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-aiopendata@gmail.com-blue?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DataClasse-black?style=flat&logo=github)](https://github.com/DataClasse)
+[![Location](https://img.shields.io/badge/Location-Moscow-red?style=flat&logo=location)]()
 
-Here are some ideas to get you started:
+## 🚀 О себе
+Начинающий ML-инженер с практическим опытом полного цикла разработки машинного обучения. Прошел интенсивную программу "Инженер машинного обучения" в Яндекс Практикум с успешной реализацией 6 проектов от подготовки данных до деплоя в продакшн.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технический стек
+**Core ML:** Python, SQL, Scikit-learn, TensorFlow, PyTorch  
+**MLOps:** Docker, Kubernetes, Airflow, MLflow, FastAPI  
+**Cloud & Monitoring:** Yandex Cloud, Grafana, Prometheus  
+**Databases:** PostgreSQL, MSSQL  
+
+## 📊 Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataClasse&show_icons=true&theme=dark)
+
+## 🔥 Топ проекты
+- 🏠 **Предсказание оттока клиентов** - F1-score 0.84, автоматизация через Airflow
+- 🎵 **Рекомендательная система** - NDCG@10 = 0.73, гибридный подход
+- 📈 **Uplift-модель** - uplift 12%, A/B тестирование
+- 🔍 **Детекция аномалий** - precision 89%, real-time обработка
+
+## 📈 Активность
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DataClasse&theme=dark)
+
+## 🎯 Карьерные цели
+- Junior/Middle ML Engineer
+- MLOps Engineer  
+- Data Scientist (продуктовые задачи)
+- AI Engineer
+
+---
+*Готов к обсуждению возможностей сотрудничества!* 📞
