@@ -1,5 +1,5 @@
 # Дмитрий Щербаков 👨‍💻
-**ML-инженер | Учащийся Яндекс Практикум**
+**ML-инженер | Выпускник АНО ДПО «Образовательные технологии Яндекса», г. Москва**
 
 [![Email](https://img.shields.io/badge/Email-aiopendata@gmail.com-blue?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DataClasse-black?style=flat&logo=github)](https://github.com/DataClasse)
