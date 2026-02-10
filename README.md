@@ -1,30 +1,116 @@
 # Дмитрий Щербаков 👨‍💻
-**ML-инженер | Выпускник АНО ДПО «Образовательные технологии Яндекса», г. Москва**
 
-[![Email](https://img.shields.io/badge/Email-aiopendata@gmail.com-blue?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DataClasse-black?style=flat&logo=github)](https://github.com/DataClasse)
-[![Location](https://img.shields.io/badge/Location-Moscow-red?style=flat&logo=location)]()
+**ML-инженер | Выпускник Яндекс Практикум**
+
+[![GitHub](https://img.shields.io/badge/GitHub-DataClasse-181717?style=flat&logo=github)](https://github.com/DataClasse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/aiopendata/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/dmitryvsh)
+[![Хабр Карьера](https://img.shields.io/badge/Хабр_Карьера-Profile-green?style=flat)](https://career.habr.com/gliderai)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
 
 ## 🚀 О себе
-ML-инженер с практическим опытом полного цикла разработки машинного обучения. Прошел интенсивную программу "Инженер машинного обучения" в АНО ДПО «Образовательные технологии Яндекса», г. Москва с успешной реализацией 6 проектов от подготовки данных до деплоя в продакшн.
+
+ML-инженер с практическим опытом полного цикла разработки машинного обучения. Прошел интенсивную программу «Инженер машинного обучения PRO» в Яндекс Практикум с успешной реализацией 6 проектов от подготовки данных до деплоя в продакшн.
+
+**Ключевые достижения:**
+- ✅ Реализовал end-to-end ML-пайплайны с использованием современного MLOps стека
+- ✅ Развернул ML-модели в продакшн с помощью Docker и Kubernetes
+- ✅ Оптимизировал качество моделей через feature engineering и hyperparameter tuning
+- ✅ Создал рекомендательную систему и uplift-модели для бизнес-задач
 
 ## 🛠 Технический стек
-**Core ML:** Python, SQL, Scikit-learn, TensorFlow, PyTorch  
-**MLOps:** Docker, Kubernetes, Airflow, MLflow, FastAPI  
-**Cloud & Monitoring:** Yandex Cloud, Grafana, Prometheus  
-**Databases:** PostgreSQL, MSSQL  
+
+### Core ML
+- **Python** — продвинутый уровень (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+- **SQL** — продвинутый уровень (PostgreSQL, MSSQL, оптимизация запросов)
+- **Machine Learning** — классификация, регрессия, кластеризация, временные ряды
+- **Deep Learning** — TensorFlow, PyTorch (основы нейронных сетей)
+
+### MLOps & Production
+- **Docker** — контейнеризация ML-сервисов
+- **Airflow** — автоматизация пайплайнов данных
+- **MLflow** — трекинг экспериментов и версионирование моделей
+- **FastAPI** — создание ML API
+- **Kubernetes** — развертывание в облаке
+- **DVC** — версионирование данных и моделей
+
+### Cloud & Monitoring
+- **Yandex Cloud** — развертывание ML-сервисов
+- **Grafana, Prometheus** — мониторинг (базовый уровень)
 
 ## 🔥 Топ проекты
-- 🏠 **Предсказание оттока клиентов** - F1-score 0.84, автоматизация через Airflow
-- 🎵 **Рекомендательная система** - NDCG@10 = 0.73, гибридный подход
-- 📈 **Uplift-модель** - uplift 12%, A/B тестирование
-- 🔍 **Детекция аномалий** - precision 89%, real-time обработка
+
+### 1. 🏠 Предсказание оттока клиентов
+**Технологии:** Python, Scikit-learn, Airflow, DVC, MLflow
+
+Разработка системы предсказания оттока клиентов с полной автоматизацией процесса.
+
+[🔗 Подробнее →](./projects/churn-prediction)
+
+### 2. 📊 Улучшение baseline
+**Технологии:** Python, Scikit-learn, feature engineering
+
+Улучшение базовой модели и метрик качества.
+
+[🔗 Подробнее →](./projects/baseline-improvement)
+
+### 3. 🚀 Релиз модели в продакшен
+**Технологии:** Docker, CI/CD, мониторинг
+
+Выкат ML-модели в продакшен, пайплайн доставки и мониторинг.
+
+[🔗 Подробнее →](./projects/production-release)
+
+### 4. 🎵 Рекомендательная система
+**Технологии:** Python, Implicit, CatBoost, FastAPI, Docker
+
+Гибридная рекомендательная система для музыкального стриминга (Яндекс Музыка).
+
+[🔗 Подробнее →](./projects/recommendation-system)
+
+### 5. 📈 Uplift-моделирование
+**Технологии:** Python, Scikit-uplift, A/B тестирование, Kubernetes
+
+Модель для определения эффективной аудитории маркетинговых кампаний.
+
+[🔗 Подробнее →](./projects/uplift-modeling)
+
+### 6. 🎵 Рекомендательная система в продакшен (полный цикл ML)
+**Технологии:** Python, Implicit, CatBoost, FastAPI, Docker, CI/CD
+
+Полный цикл: постановка задачи → данные → модель → выкат в продакшен.
+
+[🔗 Подробнее →](./projects/recsys-production)
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataClasse&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataClasse&layout=compact&theme=radical&hide_border=true)
+
+## 🎓 Образование
+
+**Яндекс Практикум** | 2025
+- Инженер машинного обучения PRO (4 месяца, 180+ часов практики)
+- 6 проектов в портфолио с реальными бизнес-задачами
+- Изучение полного стека MLOps: от данных до продакшна
+- Менторинг от практикующих ML-инженеров Яндекса
 
 ## 🎯 Карьерные цели
+
 - ML Engineer
-- MLOps Engineer  
+- MLOps Engineer
 - Data Scientist (продуктовые задачи)
 - AI Engineer
 
+## 📞 Контакты
+
+- 📧 Email: [aiopendata@gmail.com](mailto:aiopendata@gmail.com)
+- 💻 GitHub: [github.com/DataClasse](https://github.com/DataClasse)
+- 📊 LeetCode: [leetcode.com/u/aiopendata](https://leetcode.com/u/aiopendata/)
+- 📈 Kaggle: [kaggle.com/dmitryvsh](https://www.kaggle.com/dmitryvsh)
+- 💼 Хабр Карьера: [career.habr.com/gliderai](https://career.habr.com/gliderai)
+
 ---
-*Готов к обсуждению возможностей сотрудничества!* 📞
+
+_Готов к обсуждению возможностей сотрудничества!_ 📞
