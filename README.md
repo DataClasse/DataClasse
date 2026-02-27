@@ -1,6 +1,6 @@
 # Дмитрий Щербаков
 
-**ML-инженер: полный цикл от данных до продакшна, 6 проектов. Сертификация Yandex EdTech (2026).**
+**ML-инженер: полный цикл от данных до продакшна, 6 проектов. Сертификация Yandex EdTech (2026, 295 ч).**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DataClasse-181717?style=flat&logo=github)](https://github.com/DataClasse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/aiopendata/)
@@ -8,11 +8,11 @@
 [![Хабр Карьера](https://img.shields.io/badge/Хабр_Карьера-Profile-green?style=flat)](https://career.habr.com/gliderai)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
 
-ML Engineer: end-to-end pipelines, 6 production-style projects (churn, recommender systems, uplift, deployment). Yandex EdTech professional certificate, 2026. Open to remote and relocation. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
+**EN** — ML Engineer: end-to-end pipelines, 6 production-style projects (churn, recommender systems, uplift, deployment). Yandex EdTech professional certificate, 2026 (295 h). Open to remote and relocation. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
 
 ## Профиль
 
-Опыт в ML: 6 проектов полного цикла (данные → модель → продакшн). Направления: пайплайны данных и обучения (Airflow, DVC), деплой ML-сервисов (Docker, Kubernetes), рекомендательные системы, uplift-моделирование. Подтверждение: сертификация Yandex EdTech 2026. До перехода в ML — управленческий опыт (зам. пред. правления, руководство подразделениями, ответственность за результаты и риски).
+Опыт в ML: 6 проектов полного цикла (данные → модель → продакшн). Направления: пайплайны данных и обучения (Airflow, DVC), деплой ML-сервисов (Docker, Kubernetes), рекомендательные системы, uplift-моделирование. Подтверждение: сертификация Yandex EdTech 2026 (295 ч). До перехода в ML — управленческий опыт (зам. пред. правления, руководство подразделениями, ответственность за результаты и риски).
 
 ## Результаты
 
@@ -85,13 +85,13 @@ ML Engineer: end-to-end pipelines, 6 production-style projects (churn, recommend
 ## Образование
 
 **АНО ДПО «Образовательные технологии Яндекса» (Yandex EdTech)** | 2025–2026
-- Программа «Инженер машинного обучения» (для специалистов с опытом)
+- Программа «Инженер машинного обучения» (для специалистов с опытом), 295 часов
 - Квалификация: специалист по большим данным (Big Data Specialist)
 - 6 проектов в портфолио: пайплайны данных, baseline, деплой в продакшн, рекомендательные системы, uplift
 - Менторинг от практикующих ML-инженеров Яндекса
 
 **Сертификация**
-- Диплом о профессиональной переподготовке (2026, документ 2026-14499-001). Сертификаты и дипломы — в отдельном репозитории (будет добавлена ссылка после создания репо).
+- Диплом о профессиональной переподготовке (2026, документ 2026-14499-001). Сертификаты и дипломы: [github.com/DataClasse/certificates](https://github.com/DataClasse/certificates).
 
 ## Карьерные цели
 
