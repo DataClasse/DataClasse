@@ -1,6 +1,6 @@
 # Дмитрий Щербаков
 
-**ML-инженер: полный цикл от данных до продакшна, 6 проектов. Сертификация Yandex EdTech (2026).**
+**ML-инженер: полный цикл от данных до внедрения моделей в эксплуатацию, 6 проектов. Сертификация Yandex EdTech (2026).**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DataClasse-181717?style=flat&logo=github)](https://github.com/DataClasse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/aiopendata/)
@@ -8,36 +8,35 @@
 [![Хабр Карьера](https://img.shields.io/badge/Хабр_Карьера-Profile-green?style=flat)](https://career.habr.com/gliderai)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
 
-**EN** — ML Engineer: end-to-end pipelines, 6 production-style projects (churn, recommender systems, uplift, deployment). Yandex EdTech professional certificate, 2026. Open to remote and relocation. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
+**ML Engineer:** полный цикл от данных до внедрения моделей в эксплуатацию, 6 проектов, близких к промышленным (churn, рекомендательные системы, uplift, внедрение сервисов). Профессиональный сертификат Yandex EdTech, 2026. Открыт к удалённому формату работы и релокации. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
 
 ## Профиль
 
-Опыт в ML: 6 проектов полного цикла (данные → модель → продакшн). Направления: пайплайны данных и обучения (Airflow, DVC), деплой ML-сервисов (Docker, Kubernetes), рекомендательные системы, uplift-моделирование. Подтверждение: сертификация Yandex EdTech 2026. До перехода в ML — управленческий опыт (зам. пред. правления, руководство подразделениями, ответственность за результаты и риски).
+Опыт в ML: 6 проектов полного цикла (данные → модель → внедрение в эксплуатацию). Направления: пайплайны данных и обучения (Airflow, DVC), внедрение ML‑сервисов (Docker), рекомендательные системы, uplift-моделирование. Сертификация Yandex EdTech 2026.
 
 ## Результаты
 
-- Churn: F1-score 0.84, автоматизация пайплайнов (Airflow, DVC, MLflow)
-- Рекомендательная система: NDCG@10 = 0.73, гибридная модель (Implicit + CatBoost), REST API и Docker
-- Uplift-модель: прирост 12% vs контроль, A/B тестирование, деплой в Yandex Cloud
-- Деплой ML в продакшн: контейнеризация, CI/CD, мониторинг (Grafana, Prometheus)
+- Churn: F1-score (бинарная классификация), автоматизация пайплайнов (Airflow, DVC, MLflow)
+- Рекомендательная система: метрики Precision@5, Recall@5, Coverage, Novelty@5; гибридная модель (Implicit + CatBoost), REST API и Docker
+- Uplift-модель: Uplift@30% = 0.0518 (отлично), прирост +26.3% относительно базовой модели (baseline); A/B тестирование, внедрение в Yandex Cloud
+- Внедрение ML‑моделей в эксплуатацию: контейнеризация, мониторинг (Grafana, Prometheus)
 - Версионирование данных и моделей: DVC, MLflow; воспроизводимость экспериментов
 
 ## Технический стек
 
-Используется в проектах ниже.
-
 | Область | Технологии |
 |--------|------------|
-| Core ML | Python, NumPy, Pandas, Scikit-learn, CatBoost, Implicit, Scikit-uplift; TensorFlow, PyTorch (основы) |
-| MLOps & Production | Docker, Kubernetes, Airflow, DVC, MLflow, FastAPI |
-| Cloud & Monitoring | Yandex Cloud, Grafana, Prometheus |
+| Core ML | Python, Pandas, NumPy, Scikit-learn, CatBoost, Implicit, Scikit-uplift, Optuna |
+| MLOps и пайплайны | DVC, MLflow, Airflow |
+| Production | Docker, FastAPI, Uvicorn |
+| Cloud и мониторинг | Yandex Cloud, S3, Prometheus, Grafana |
 
-## Топ проекты
+## Проекты
 
 ### 1. Предсказание оттока клиентов
 **Технологии:** Python, Scikit-learn, Airflow, DVC, MLflow
 
-Разработка системы предсказания оттока клиентов с полной автоматизацией процесса. F1-score 0.84.
+Разработка системы предсказания оттока клиентов с полной автоматизацией процесса. Метрики: F1-score, Accuracy, Precision, Recall.
 
 [Подробнее →](https://github.com/DataClasse/churn-prediction)
 
@@ -49,30 +48,30 @@
 [Подробнее →](https://github.com/DataClasse/baseline-improvement)
 
 ### 3. Релиз модели в продакшен
-**Технологии:** Docker, CI/CD, мониторинг
+**Технологии:** Docker, мониторинг
 
-Выкат ML-модели в продакшен, пайплайн доставки и мониторинг.
+Внедрение ML‑модели в эксплуатацию, процесс доставки и мониторинг качества.
 
 [Подробнее →](https://github.com/DataClasse/churn-prediction-api)
 
 ### 4. Рекомендательная система
 **Технологии:** Python, Implicit, CatBoost, FastAPI, Docker
 
-Гибридная рекомендательная система для музыкального стриминга (Яндекс Музыка). NDCG@10 = 0.73.
+Гибридная рекомендательная система для музыкального стриминга (Яндекс Музыка). Метрики: Precision@5, Recall@5, Coverage, Novelty@5.
 
 [Подробнее →](https://github.com/DataClasse/music-recommender)
 
 ### 5. Uplift-моделирование
-**Технологии:** Python, Scikit-uplift, A/B тестирование, Kubernetes
+**Технологии:** Python, Scikit-uplift, A/B тестирование
 
-Модель для определения эффективной аудитории маркетинговых кампаний. Uplift 12%.
+Модель для определения эффективной аудитории маркетинговых кампаний. Uplift@30% = 0.0518 (отлично), прирост +26.3% от baseline.
 
 [Подробнее →](https://github.com/DataClasse/uplift-modeling)
 
 ### 6. Рекомендательная система в продакшен (полный цикл ML)
-**Технологии:** Python, Implicit, CatBoost, FastAPI, Docker, CI/CD
+**Технологии:** Python, Implicit, CatBoost, FastAPI, Docker
 
-Полный цикл: постановка задачи → данные → модель → выкат в продакшен.
+Полный цикл: постановка задачи → данные → модель → внедрение в эксплуатацию.
 
 [Подробнее →](https://github.com/DataClasse/ecommerce-recsys-prod)
 
@@ -87,7 +86,7 @@
 **АНО ДПО «Образовательные технологии Яндекса» (Yandex EdTech)** | 2025–2026
 - Программа «Инженер машинного обучения» (для специалистов с опытом)
 - Квалификация: специалист по большим данным (Big Data Specialist)
-- 6 проектов в портфолио: пайплайны данных, baseline, деплой в продакшн, рекомендательные системы, uplift
+- 6 проектов в портфолио: пайплайны данных, улучшение базовых моделей, внедрение решений в эксплуатацию, рекомендательные системы, uplift‑моделирование
 - Менторинг от практикующих ML-инженеров Яндекса
 
 **Сертификация**
