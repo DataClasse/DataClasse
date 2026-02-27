@@ -58,7 +58,7 @@
 
 **Дмитрий Щербаков**
 
-- 🔗 **Код:** [github.com/DataClasse/production-release](https://github.com/DataClasse/production-release)
+- **Код:** [github.com/DataClasse/churn-prediction-api](https://github.com/DataClasse/churn-prediction-api)
 - 📧 Email: [aiopendata@gmail.com](mailto:aiopendata@gmail.com)
 - 💻 GitHub: [@DataClasse](https://github.com/DataClasse)
 

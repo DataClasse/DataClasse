@@ -66,7 +66,7 @@ Web App → FastAPI (Recommendation) → Implicit (CF) + CatBoost (Content) → 
 
 **Дмитрий Щербаков**
 
-- 🔗 **Код:** [github.com/DataClasse/recommendation-system](https://github.com/DataClasse/recommendation-system)
+- 🔗 **Код:** [github.com/DataClasse/music-recommender](https://github.com/DataClasse/music-recommender)
 - 📧 Email: [aiopendata@gmail.com](mailto:aiopendata@gmail.com)
 - 💻 GitHub: [@DataClasse](https://github.com/DataClasse)
 

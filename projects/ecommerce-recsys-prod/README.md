@@ -56,7 +56,7 @@
 
 **Дмитрий Щербаков**
 
-- 🔗 **Код:** [github.com/DataClasse/recsys-production](https://github.com/DataClasse/recsys-production)
+- 🔗 **Код:** [github.com/DataClasse/ecommerce-recsys-prod](https://github.com/DataClasse/ecommerce-recsys-prod)
 - 📧 Email: [aiopendata@gmail.com](mailto:aiopendata@gmail.com)
 - 💻 GitHub: [@DataClasse](https://github.com/DataClasse)
 
