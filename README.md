@@ -10,35 +10,27 @@
 
 **EN** — ML Engineer: end-to-end pipelines, 6 production-style projects (churn, recommender systems, uplift, deployment). Yandex EdTech professional certificate, 2026 (295 h). Open to remote and relocation. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
 
-## О себе
+## Профиль
 
-ML-инженер с практическим опытом полного цикла разработки машинного обучения. Прошел интенсивную программу «Инженер машинного обучения PRO» в Яндекс Практикум с успешной реализацией 6 проектов от подготовки данных до деплоя в продакшн.
+Опыт в ML: 6 проектов полного цикла (данные → модель → продакшн). Направления: пайплайны данных и обучения (Airflow, DVC), деплой ML-сервисов (Docker, Kubernetes), рекомендательные системы, uplift-моделирование. Подтверждение: сертификация Yandex EdTech 2026 (295 ч). До перехода в ML — управленческий опыт (зам. пред. правления, руководство подразделениями, ответственность за результаты и риски).
 
-**Ключевые достижения:**
-- Реализовал end-to-end ML-пайплайны с использованием современного MLOps стека
-- Развернул ML-модели в продакшн с помощью Docker и Kubernetes
-- Оптимизировал качество моделей через feature engineering и hyperparameter tuning
-- Создал рекомендательную систему и uplift-модели для бизнес-задач
+## Результаты
+
+- Churn: F1-score 0.84, автоматизация пайплайнов (Airflow, DVC, MLflow)
+- Рекомендательная система: NDCG@10 = 0.73, гибридная модель (Implicit + CatBoost), REST API и Docker
+- Uplift-модель: прирост 12% vs контроль, A/B тестирование, деплой в Yandex Cloud
+- Деплой ML в продакшн: контейнеризация, CI/CD, мониторинг (Grafana, Prometheus)
+- Версионирование данных и моделей: DVC, MLflow; воспроизводимость экспериментов
 
 ## Технический стек
 
-### Core ML
-- **Python** — продвинутый уровень (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-- **SQL** — продвинутый уровень (PostgreSQL, MSSQL, оптимизация запросов)
-- **Machine Learning** — классификация, регрессия, кластеризация, временные ряды
-- **Deep Learning** — TensorFlow, PyTorch (основы нейронных сетей)
+Используется в проектах ниже.
 
-### MLOps & Production
-- **Docker** — контейнеризация ML-сервисов
-- **Airflow** — автоматизация пайплайнов данных
-- **MLflow** — трекинг экспериментов и версионирование моделей
-- **FastAPI** — создание ML API
-- **Kubernetes** — развертывание в облаке
-- **DVC** — версионирование данных и моделей
-
-### Cloud & Monitoring
-- **Yandex Cloud** — развертывание ML-сервисов
-- **Grafana, Prometheus** — мониторинг (базовый уровень)
+| Область | Технологии |
+|--------|------------|
+| Core ML | Python, NumPy, Pandas, Scikit-learn, CatBoost, Implicit, Scikit-uplift; TensorFlow, PyTorch (основы) |
+| MLOps & Production | Docker, Kubernetes, Airflow, DVC, MLflow, FastAPI |
+| Cloud & Monitoring | Yandex Cloud, Grafana, Prometheus |
 
 ## Топ проекты
 
