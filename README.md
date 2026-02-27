@@ -8,7 +8,7 @@
 [![Хабр Карьера](https://img.shields.io/badge/Хабр_Карьера-Profile-green?style=flat)](https://career.habr.com/gliderai)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiopendata@gmail.com)
 
-**ML Engineer:** полный цикл от данных до внедрения моделей в эксплуатацию, 6 проектов, близких к промышленным (churn, рекомендательные системы, uplift, внедрение сервисов). Профессиональный сертификат Yandex EdTech, 2026. Открыт к удалённому формату работы и релокации. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
+**ML Engineer:** end-to-end pipelines, 6 production-ready projects (churn prediction, recommender systems, uplift modeling, service deployment). Yandex EdTech professional certificate, 2026. Open to remote work and relocation. [Projects](https://github.com/DataClasse?tab=repositories) · [Contact](mailto:aiopendata@gmail.com)
 
 ## Профиль
 
