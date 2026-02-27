@@ -1,6 +1,6 @@
 # Дмитрий Щербаков
 
-**ML-инженер: полный цикл от данных до продакшна, 6 проектов. Сертификация Yandex EdTech (2026, 295 ч).**
+**ML-инженер: полный цикл от данных до продакшна, 6 проектов. Сертификация Yandex EdTech (2026).**
 
 [![GitHub](https://img.shields.io/badge/GitHub-DataClasse-181717?style=flat&logo=github)](https://github.com/DataClasse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/aiopendata/)
